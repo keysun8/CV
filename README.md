@@ -8,16 +8,16 @@
 
 <br/>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/YOUR_LEETCODE_USERNAME"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://github.com/keysun8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://huggingface.co/keysun89"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/></a>
+<a href="https://linkedin.com/in/kishan-madlani-596559250"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/kishanmadlani08/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 <a href="https://signal.org"><img src="https://img.shields.io/badge/Signal-keysun.89-3A76F0?style=for-the-badge&logo=signal&logoColor=white" alt="Signal"/></a>
 <a href="mailto:kishanmadlani08@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=keysun8&label=Profile%20Views&color=0e75b6&style=flat-square" alt="views"/>
 
 </div>
 
@@ -45,7 +45,7 @@ My research spans **latent diffusion**, **multimodal learning**, **metric learni
 **CVIT Lab, IIIT Hyderabad** &nbsp;|&nbsp; 📍 Hyderabad, Telangana &nbsp;|&nbsp; 🗓️ Feb 2026 – Aug 2026
 
 - Built a **diffusion-based model** that generates realistic **Hindi handwriting** mimicking real writers' styles, and used it to create a **fully synthetic dataset**.
-- Combining synthetic and real data improved **OCR accuracy by 17%** over real-only training. 📄 *[Tech Report]*
+- Combining synthetic and real data improved **OCR accuracy by 17%** over real-only training. 📄 [**Tech Report**](https://drive.google.com/file/d/169n4JmclzjZCdDSln8ThJtHJ9-uzOp3K/view?usp=sharing)
 
 ---
 
@@ -69,9 +69,9 @@ My research spans **latent diffusion**, **multimodal learning**, **metric learni
 
 </div>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_HANDWRITING_REPO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://huggingface.co/spaces/YOUR_HF_USERNAME/YOUR_HANDWRITING_SPACE"><img src="https://img.shields.io/badge/Demo-HF%20Space%20(CPU)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
-<a href="YOUR_COLAB_LINK"><img src="https://img.shields.io/badge/Demo-Colab%20(GPU)-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
+<a href="https://github.com/keysun8/Diffusion_HW_Hindi"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://huggingface.co/spaces/keysun89/HW_Hindi_Human"><img src="https://img.shields.io/badge/Demo-HF%20Space%20(CPU)-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://colab.research.google.com/github/keysun8/Diffusion_HW_Hindi/blob/main/Diffusion_HW_Inference_Hindi.ipynb"><img src="https://img.shields.io/badge/Demo-Colab%20(GPU)-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/></a>
 
 ---
 
@@ -92,8 +92,8 @@ My research spans **latent diffusion**, **multimodal learning**, **metric learni
 
 </div>
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_FACE_REPO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://huggingface.co/spaces/YOUR_HF_USERNAME/YOUR_FACE_SPACE"><img src="https://img.shields.io/badge/Demo-HF%20Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
+<a href="https://github.com/keysun8/Diffusion-based-Face-Image-Generation"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://huggingface.co/spaces/keysun89/this_person_does_not_exist_ldm"><img src="https://img.shields.io/badge/Demo-HF%20Space-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/></a>
 
 ---
 
@@ -108,7 +108,7 @@ My research spans **latent diffusion**, **multimodal learning**, **metric learni
 - Implemented a **vector retrieval pipeline** with **FAISS** and **Pinecone**, feeding retrieved context to an LLM for grounded responses.
 - Deployed on a university **Discord** server: **500+ queries from 47+ users**.
 
-<a href="https://github.com/YOUR_GITHUB_USERNAME/YOUR_RAG_REPO"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://github.com/keysun8/videos/blob/main/yt_chatbot.ipynb"><img src="https://img.shields.io/badge/Code-GitHub-181717?style=for-the-badge&logo=github"/></a>
 
 ---
 
@@ -169,10 +169,10 @@ My research spans **latent diffusion**, **multimodal learning**, **metric learni
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=keysun8&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=keysun8&layout=compact&theme=tokyonight&hide_border=true" alt="top langs"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=keysun8&theme=tokyonight&hide_border=true" alt="streak"/>
 
 </div>
 
